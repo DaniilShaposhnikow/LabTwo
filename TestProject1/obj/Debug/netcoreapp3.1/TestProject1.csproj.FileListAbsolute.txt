@@ -1,0 +1,4 @@
+C:\Users\viksh\OneDrive\Рабочий стол\ConsoleApp8\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csprojAssemblyReference.cache
+C:\Users\viksh\OneDrive\Рабочий стол\ConsoleApp8\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfoInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\ConsoleApp8\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfo.cs
+C:\Users\viksh\OneDrive\Рабочий стол\ConsoleApp8\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csproj.CoreCompileInputs.cache
